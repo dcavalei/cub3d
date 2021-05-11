@@ -6,7 +6,7 @@ Wolfenstein 3D like game, using C and MiniLibX graphics library
 *	[Raycaster](https://lodev.org/cgtutor/raycasting.html)
 ###	How to play
 *	MacOS
-To change some specs or the map it self open maps/test.cub file and edit it (don't forget to save)
 	make && ./cub3d maps/test.cub
+To change some specs or the map it self open maps/test.cub file and edit it (don't forget to save)
 #### Contact me
 	dcavalei@student.42lisboa.com
