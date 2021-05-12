@@ -6,7 +6,7 @@
 #    By: dcavalei <dcavalei@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/04/05 12:03:48 by dcavalei          #+#    #+#              #
-#    Updated: 2021/05/11 12:14:47 by dcavalei         ###   ########.fr        #
+#    Updated: 2021/05/12 16:50:15 by dcavalei         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -20,7 +20,7 @@ CUB_FLAGS	= -lmlx -framework OpenGL -framework AppKit
 SRCS_DIRS	= src
 INCL_DIRS	= includes
 LIB_DIRS	= libft minilibx
-NAME		= cub3d
+NAME		= cub3D
 
 RED			= \033[0;31m
 GREEN		= \033[0;32m
